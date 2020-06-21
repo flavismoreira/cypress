@@ -1,8 +1,8 @@
 # cypress
 
 
-##node.js
-##npm
+## node.js
+## npm
 
 ### npm init
 inicia o projeto e cria o arquivo package.json
