@@ -23,4 +23,11 @@ describe('Cypress basics', () => {
     cy.get('#buttonSimple').should('have.value', 'Obrigado!')
   })
 
+// 
 })
+
+//debug
+// ex: cy.title().debug().should('contain', 'Campo')
+
+//pause
+// ex: cy.pause()
